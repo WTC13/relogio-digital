@@ -1,7 +1,3 @@
-A seguir está uma sugestão de documentação para o repositório GitHub do projeto "Relógio Digital", que pode ser incluída no arquivo `README.md`:
-
----
-
 # Relógio Digital
 
 Este projeto consiste em um relógio digital desenvolvido com HTML, CSS e JavaScript. Ele exibe a hora atual em tempo real, com um design simples e funcional.
